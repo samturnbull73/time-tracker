@@ -6,7 +6,7 @@ tar -xvzf apache-tomcat-8.5.57.tar.gz
 
 mv apache-tomcat-8.5.57 tomcat
 
-### cat webapps/manager/META-INF/context.xml
+### cat /opt/tomcat/webapps/manager/META-INF/context.xml
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
