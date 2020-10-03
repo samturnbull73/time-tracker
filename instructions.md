@@ -1,4 +1,5 @@
 cd /opt
+
 wget https://www.mirrorservice.org/sites/ftp.apache.org/tomcat/tomcat-8/v8.5.57/bin/apache-tomcat-8.5.57.tar.gz
 
 tar -xvzf apache-tomcat-8.5.57.tar.gz
